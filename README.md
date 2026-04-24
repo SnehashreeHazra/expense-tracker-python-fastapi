@@ -59,3 +59,21 @@ docker-compose up --build
 ---
 
 ## 📁 Project Structure
+
+    expense-tracker-python-fastapi/
+    ├── backend/          # FastAPI app, models, routes, auth
+    ├── frontend/         # React app with Tailwind CSS
+    ├── docker-compose.yml
+    └── README.md
+
+---
+
+## 🌐 Live Demo
+
+🔗 [expense-tracker-python-fastapi.vercel.app](https://expense-tracker-python-fastapi.vercel.app)
+
+---
+
+## 👩‍💻 Author
+
+**Snehashree Hazra** — [LinkedIn](https://www.linkedin.com/in/snehashreehazra1) · [GitHub](https://github.com/SnehashreeHazra)
