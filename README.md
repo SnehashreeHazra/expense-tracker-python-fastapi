@@ -60,10 +60,10 @@ docker-compose up --build
 
 ## 📁 Project Structure
 
-expense-tracker-python-fastapi/
-├── backend/          # FastAPI app, models, routes, auth
-├── frontend/         # React app with Tailwind CSS
-├── docker-compose.yml
+expense-tracker-python-fastapi/  
+├── backend/  ──────── FastAPI app, models, routes, auth  
+├── frontend/  ─────── React app with Tailwind CSS  
+├── docker-compose.yml  
 └── README.md
 
 
